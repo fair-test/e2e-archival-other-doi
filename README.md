@@ -1,2 +1,1 @@
-# e2e-archival-other-doi
-Citation with non-Zenodo DOI
+# E2E Archival - Other DOI
